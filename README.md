@@ -2,7 +2,8 @@
 
 A simple web-based classroom application that allows instructors to add courses with lessons, while students can enroll in these courses and track their progress. - developed using React, Node, Express and MongoDB.
 
-![MERN Skeleton](https://mernbook.s3.amazonaws.com/git+/classroom.png "MERN Skeleton") 
+![MERN Skeleton]([online-mern-classroom.pdf](https://github.com/rekha0suthar/online-classroom-mern/files/5751542/online-mern-classroom.pdf)
+) 
 
 
 
